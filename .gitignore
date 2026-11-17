@@ -1,0 +1,17 @@
+# Dependicies
+node_modules/
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# Build files
+dist/
+dist-ssr/
+
+# Logs
+*.logs
+
+# Editor files
+.vscode/
